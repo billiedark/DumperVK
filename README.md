@@ -8,6 +8,12 @@
 
 В каждом таком HTML файле находятся фотографии из диалогов, а так же каждая фотография подписана из какого диалога была взята
 
+Необходимые библиотеки:
+```cmd
+pip install vk-api
+```
+
+Файл photo-pre.html
 ```html
 <!DOCTYPE HTML>
 <html>
@@ -20,6 +26,7 @@
         <div class="body">NISTA-DUMPER</div>
 ```
 
+Файл main.py
 ```python
 import vk_api
 import os
