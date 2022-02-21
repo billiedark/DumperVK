@@ -13,7 +13,7 @@
 pip install vk-api
 ```
 
-Файл photo-pre.html
+Файл photo_pre.html
 ```html
 <!DOCTYPE HTML>
 <html>
